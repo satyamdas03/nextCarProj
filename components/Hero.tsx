@@ -8,6 +8,9 @@ const Hero = () => {
             <h1 className='hero__title'>
                 Find, Book, rent a car -- quickly and easily !!
             </h1>
+            <p className='hero__subtitle'>
+                
+            </p>
         </div>
     </div>
   )
