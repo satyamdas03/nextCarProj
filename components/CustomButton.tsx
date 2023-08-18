@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image"
 
 const CustomButton = () => {
@@ -6,8 +8,9 @@ const CustomButton = () => {
         disabled={false}
         type={"button"}
         className={`custom-btn`}
+        onClick={()=>{}}
     >
-
+        <span className={`flex-1`}></span>
     </button>
   )
 }
