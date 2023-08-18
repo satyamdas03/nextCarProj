@@ -2,7 +2,9 @@ import Image from "next/image"
 
 const CustomButton = () => {
   return (
-    <div>Custom Button</div>
+    <button>
+        
+    </button>
   )
 }
 
