@@ -23,7 +23,7 @@ const Hero = () => {
             />
         </div>
         <div className="hero__image-container">
-
+            {/* continue */}
         </div>
     </div>
   )
