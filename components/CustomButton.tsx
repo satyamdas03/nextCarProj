@@ -13,6 +13,7 @@ const CustomButton = ({ title, containerStyles, handleClick}: CustomButtonProps)
     >
         <span className={`flex-1`}>
             {title}
+            {/* continue */}
         </span>
     </button>
   )
