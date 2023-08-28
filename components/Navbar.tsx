@@ -6,9 +6,9 @@ import CustomButton  from "./CustomButton";
 
 const Navbar = () => {
   return (
-    <div>
+    <header>
       
-    </div>
+    </header>
   )
 }
 
