@@ -6,8 +6,8 @@ import CustomButton  from "./CustomButton";
 
 const Navbar = () => {
   return (
-    <header>
-      
+    <header className="w-full absolute z-10">
+
     </header>
   )
 }
