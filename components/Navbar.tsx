@@ -17,7 +17,10 @@ const Navbar = () => {
             className="object-contain"
           />
         </Link>
-        <CustomButton/>
+        <CustomButton
+          text="Sign In"
+          btnType="button"
+        />
       </nav>
     </header>
   )
