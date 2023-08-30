@@ -17,6 +17,7 @@ const Navbar = () => {
             className="object-contain"
           />
         </Link>
+        <CustomButton/>
       </nav>
     </header>
   )
