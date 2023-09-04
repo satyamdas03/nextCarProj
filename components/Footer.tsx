@@ -8,7 +8,8 @@ const Footer = () => {
         <div className="flex flex-col justify-start items-start gap-6">
           <Image src="/logo.svg" alt="logo" width={118} height={18} className="object-contain"/>
           <p className="text-base text-gray-700">
-            CarHub 2023
+            CarHub 2023<br/>
+            All rights reserved
           </p>
         </div>
       </div>
