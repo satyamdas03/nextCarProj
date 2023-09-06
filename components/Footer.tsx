@@ -12,6 +12,7 @@ const Footer = () => {
             All rights reserved &copy;
           </p>
         </div>
+        <div></div>
       </div>
     </footer>
   )
