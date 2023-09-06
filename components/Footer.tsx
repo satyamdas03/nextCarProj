@@ -13,7 +13,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="footer__links">
-
+          {/* cont */}
         </div>
       </div>
     </footer>
