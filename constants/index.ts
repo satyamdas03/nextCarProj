@@ -99,3 +99,5 @@ export const footerLinks = [
         ],
     },
 ];
+
+// values of customer's cars n stuff
