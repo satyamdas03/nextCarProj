@@ -17,8 +17,8 @@ const Footer = () => {
         </div>
         <div className="footer__links">
           {footerLinks.map((link)=>(
-            <div>
-              
+            <div key={link.title}>
+
             </div>
           ))}
         </div>
