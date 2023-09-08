@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { footerLinks } from "@/constants";
+import { link } from "fs";
 
 const Footer = () => {
   return (
@@ -15,7 +16,9 @@ const Footer = () => {
           </p>
         </div>
         <div className="footer__links">
-          {/* continue */}
+          {footerLinks.map((link)=>(
+            
+          ))}
         </div>
       </div>
     </footer>
