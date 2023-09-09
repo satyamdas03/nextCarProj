@@ -28,4 +28,4 @@ const Footer = () => {
 }
 
 export default Footer
-// practice some react again
+
