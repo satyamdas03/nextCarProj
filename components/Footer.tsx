@@ -28,5 +28,5 @@ const Footer = () => {
 }
 
 export default Footer
-laf
+l
 
