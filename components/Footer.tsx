@@ -3,6 +3,7 @@ import Link from "next/link";
 
 import { footerLinks } from "@/constants";
 import { link } from "fs";
+import { loadDefaultErrorComponents } from "next/dist/server/load-components";
 
 const Footer = () => {
   return (
@@ -28,5 +29,5 @@ const Footer = () => {
 }
 
 export default Footer
-la
+loadDefaultErrorComponents
 
