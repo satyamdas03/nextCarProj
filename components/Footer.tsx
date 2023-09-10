@@ -27,6 +27,5 @@ const Footer = () => {
   )
 }
 
-export default Footer
-l
+export default Footer;
 
