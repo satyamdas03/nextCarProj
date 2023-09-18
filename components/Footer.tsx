@@ -24,7 +24,7 @@ const Footer = () => {
                   key={item.title}
                   href={item.url}
                   className="text-gray-500"
-                ></Link>
+                >{</Link>
               ))}
             </div>
           ))}
