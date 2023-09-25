@@ -30,7 +30,7 @@ const Footer = () => {
           ))}
         </div>
 
-        <div className="">
+        <div className="flex justify-between">
 
         </div>
       </div>
